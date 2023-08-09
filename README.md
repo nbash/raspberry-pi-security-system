@@ -1,5 +1,8 @@
 <h1 align="center">Raspberry Pi Security System</h1>
-<img src="./MobileUI.PNG" alt="Mobile UI" width="30%" />
+<div align="center">
+  <img src="./MobileUI.PNG" alt="Mobile UI" width="30%" />
+</div>
+
 
 
 ## Pushover
